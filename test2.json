@@ -2,5 +2,5 @@
   "name": "John",
   "age": 30,
   "isStudent": false,
-  "car": null
+  "car": 8
 }
