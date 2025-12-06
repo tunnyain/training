@@ -1,4 +1,4 @@
-name = input("What is your name? ")
+name = input("What is your joseph? ")
 age = int(input("How old are you? "))
 year = 2025 - age
 print("Hello, " + name + "geeben")
