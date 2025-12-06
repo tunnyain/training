@@ -1,6 +1,6 @@
-name = input("What is your joseph? ")
-age = int(input("How old are you? "))
-year = 2025 - age
-print("Hello, " + name + "geeben")
-print("You were born in the year:", year)
-print("Have a great day please!")
+{
+  "name": "Oluwaseyi",
+  "age": 29,
+  "isStudent": true,
+  "car": 12
+}
