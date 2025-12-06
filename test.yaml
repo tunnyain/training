@@ -1,7 +1,7 @@
     apiVersion: secrets-store.csi.k8s.io/v1
     kind: SecretProviderClass
     metadata:
-      name: akv-certificate-secretownerpadlock
+      name: akv-certificate-secretownerbreakpad
     spec:
       provider: azure
       parameters:
@@ -19,4 +19,4 @@
               objectType: cert
             - key: tls.key
               objectName: <your-certificate-name>
-              objectType: cert444
+              objectType: cert323
